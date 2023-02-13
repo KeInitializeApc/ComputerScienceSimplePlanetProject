@@ -2,6 +2,7 @@ import os
 import math
 from time import sleep
 
+#630079
 #Mercury - Weight on earth * 0.38
 #Venus - Weight on earth * 0.91
 #Mars - Weight on earth * 0.38
